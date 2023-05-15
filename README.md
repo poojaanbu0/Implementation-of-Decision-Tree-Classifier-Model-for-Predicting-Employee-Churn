@@ -67,7 +67,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-# Initial data set:
+### Initial data set:
 ![238246426-2fb1cd6d-4da0-4245-8087-0f3dc6adbadf](https://github.com/poojaanbu0/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119390329/a91fde4f-a912-4b54-941d-b2ba2e9d7178)
 
 # Data info:
