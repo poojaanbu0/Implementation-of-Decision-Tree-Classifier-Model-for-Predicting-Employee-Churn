@@ -20,7 +20,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 5.Determine training and test data set.
 
 6.Apply decision tree Classifier on to the dataframe.
-7.Get the values of accuracy and data prediction.
+ 7.Get the values of accuracy and data prediction.
    
 ## Program:
 ```
