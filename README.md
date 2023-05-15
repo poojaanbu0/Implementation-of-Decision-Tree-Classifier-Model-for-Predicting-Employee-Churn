@@ -9,9 +9,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 
-1.Import the required libraries .
-
-2.Read the data frame using pandas.
+1.Import the required libraries
+2.Read the data frame using pandas
 
 3.Get the information regarding the null values present in the dataframe.
 
@@ -26,7 +25,6 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ```
 /*
-
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: Pooja a
 RegisterNumber: 212222240072
@@ -78,6 +76,7 @@ Optimization of null values:
 ![238246551-f585db85-5818-4437-bcc3-2740f900914b](https://github.com/poojaanbu0/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119390329/41bc98ab-231e-4aa5-b285-38e01a826316)
 
 Assignment of x and y values:
+![238246586-f3eddb41-9232-4111-8e3f-648033a2082e](https://github.com/poojaanbu0/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119390329/44e78bdb-9de0-47e2-9434-78881164201a)
 ![238246606-5afe85e6-d8ca-42bc-8e09-029d80ec2947](https://github.com/poojaanbu0/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119390329/8139955c-c841-445d-b767-b183c6083b30)
 
 Converting string literals to numerical values using label encoder:
