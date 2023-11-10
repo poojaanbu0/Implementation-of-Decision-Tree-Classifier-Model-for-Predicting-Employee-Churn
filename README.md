@@ -8,20 +8,24 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm:
-1. Import the required libraries
-2. Read the data frame using pandas
-3. Get the information regarding the null values present in the dataframe.
-4. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
-5. Determine training and test data set.
-6. Apply decision tree Classifier on to the dataframe.
-7. Get the values of accuracy and data prediction.
-   
+1.Prepare your data Clean and format your data Split your data into training and testing sets
+2.Define your model Use a sigmoid function to map inputs to outputs Initialize weights and bias terms
+3.Define your cost function Use binary cross-entropy loss function Penalize the model for incorrect predictions
+4.Define your learning rate Determines how quickly weights are updated during gradient descent
+5.Train your model Adjust weights and bias terms using gradient descent Iterate until convergence or for a fixed number of iterations
+6.Evaluate your model Test performance on testing data Use metrics such as accuracy, precision, recall, and F1 score
+7.Tune hyperparameters Experiment with different learning rates and regularization techniques
+8.Deploy your model Use trained model to make predictions on new data in a real-world application.
+
 ## Program:
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: Pooja a
 RegisterNumber: 212222240072
+*/
+```
+```
 import pandas as pd
 data=pd.read_csv("Employee.csv")
 
